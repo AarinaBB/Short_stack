@@ -20,6 +20,8 @@ function displayUsers(users) {
   });
 }
 
+
+
 // Function to display user details
 function displayUserDetails(user) {
   const userDetailsDiv = document.querySelector('.user-details');
